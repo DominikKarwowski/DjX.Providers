@@ -1,3 +1,3 @@
 # DjX.Providers
 
-Variuos providers developed for own purposes.
+Various providers developed for own purposes.
